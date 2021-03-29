@@ -8,7 +8,8 @@ To execute this script successfuly, you should follow to steps bellow:
   3a. files: contains files' name.
   3b. find: text to find in the corresponding file.
   3c. replace: new text to add.
-4. **Run** the script with the command: python edit_text.py "excel_file_name.xlsx"
+4. **Open** Autocad
+5. **Run** the script with the command: python edit_text.py "excel_file_name.xlsx" 
 
 Enjoy the magic!!
 
